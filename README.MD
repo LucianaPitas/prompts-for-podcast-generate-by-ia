@@ -108,3 +108,12 @@ Luciana: "Agora fala aí, Ba: tem alguma coisa que tu morre de rir toda vez que 
 [FINALIZAÇÃO]
 Luciana: "Ba, valeu mesmo por dividir essas histórias com a gente! Vocês dois são demais e o canal é pura alegria. Galera, obrigada por mais um episódio aqui no FofuraCast! A gente se encontra no próximo, hein? Fui!"
 
+## Episódios
+
+<div align="center">
+    <audio src="output/Episódio1.m4a" controls title="Episódio 1"></audio>
+</div>
+
+<div align="center">
+    <audio src="output/Episódio2.m4a" controls title="Episódio 2"></audio>
+</div>
