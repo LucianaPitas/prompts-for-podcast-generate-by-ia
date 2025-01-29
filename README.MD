@@ -110,10 +110,6 @@ Luciana: "Ba, valeu mesmo por dividir essas histórias com a gente! Vocês dois 
 
 ## Episódios
 
-<div align="center">
-    <audio src="output/Episódio1.m4a" controls title="Episódio 1"></audio>
-</div>
+   <audio src="output/Episódio1.m4a" controls title="Episódio 1"></audio>
 
-<div align="center">
-    <audio src="output/Episódio2.m4a" controls title="Episódio 2"></audio>
-</div>
+   <audio src="output/Episódio2.m4a" controls title="Episódio 2"></audio>
