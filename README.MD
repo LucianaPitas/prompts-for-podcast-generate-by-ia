@@ -52,7 +52,7 @@ https://gemini.google.com/app/b536f0fc40b93db5?hl=pt-br
 
 <p align="center">
 <img 
-    src="./assets/gatinhos.jfif"
+    src="./assets/Gatinhos.jfif"
     width="300"
 />
 </p>
