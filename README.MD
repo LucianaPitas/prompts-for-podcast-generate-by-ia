@@ -50,7 +50,12 @@ FofuraCast com Be e Ba
 Prompt:
 https://gemini.google.com/app/b536f0fc40b93db5?hl=pt-br
 
-
+<p align="center">
+<img 
+    src="./assets/gatinhos.jfif"
+    width="300"
+/>
+</p>
 
 
 - Roteiro gerado no chatgpt, com o Prompt em continuação com o desenvolvimento do nome e subtítulo do podcast.
