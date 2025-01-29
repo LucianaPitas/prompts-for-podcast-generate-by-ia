@@ -13,7 +13,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## ✨ Como foi feito ?
 
-- Inserido o Prompt abaixo no ChatGPT:
+- Inserido o Prompt abaixo no ChatGPT: https://chatgpt.com/c/67996ff4-e8b8-800a-ad1e-ef3e288b3717
 Você é um roteirista de podcast e vamos criar um podcast de entretenimento, entrevistando duas crianças de 10 anos e gostaria de 5 sugestões de nomes criativos para podcast de entrevista sobre a criação de canal no youtube por crianças tão jovens.
 
 Resposta:
